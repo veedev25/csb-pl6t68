@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://veedev25.github.io/csb-pl6t68/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://veedev25.github.io/csb-pl6t68/static/js/main.a6291ebd.chunk.js",
+    "main.js.map": "https://veedev25.github.io/csb-pl6t68/static/js/main.a6291ebd.chunk.js.map",
+    "runtime-main.js": "https://veedev25.github.io/csb-pl6t68/static/js/runtime-main.b47c0808.js",
+    "runtime-main.js.map": "https://veedev25.github.io/csb-pl6t68/static/js/runtime-main.b47c0808.js.map",
+    "static/js/2.b21dc211.chunk.js": "https://veedev25.github.io/csb-pl6t68/static/js/2.b21dc211.chunk.js",
+    "static/js/2.b21dc211.chunk.js.map": "https://veedev25.github.io/csb-pl6t68/static/js/2.b21dc211.chunk.js.map",
+    "index.html": "https://veedev25.github.io/csb-pl6t68/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://veedev25.github.io/csb-pl6t68/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b21dc211.chunk.js.LICENSE.txt": "https://veedev25.github.io/csb-pl6t68/static/js/2.b21dc211.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b47c0808.js",
+    "static/js/2.b21dc211.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a6291ebd.chunk.js"
+  ]
+}
